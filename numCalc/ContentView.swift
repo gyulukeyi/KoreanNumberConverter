@@ -22,9 +22,9 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Group{
-                Text("숫자변환기")
+                Text("Haha")
                     .font(.largeTitle)
-                Text("숫자를 변환합니다")
+                Text("I messed it up :/")
                     .padding(.bottom)
             }
             TextField("숫자를 입력해 주오", text: $numberInKorean)
