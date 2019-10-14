@@ -24,7 +24,7 @@ struct ContentView: View {
             Group{
                 Text("Haha")
                     .font(.largeTitle)
-                Text("I messed it up :/")
+                Text("I messed it up?")
                     .padding(.bottom)
             }
             TextField("숫자를 입력해 주오", text: $numberInKorean)
